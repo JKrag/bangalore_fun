@@ -1,2 +1,2 @@
 # bangalore_fun
-Demoing github
+Demoing github in Bangalore
